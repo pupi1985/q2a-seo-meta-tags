@@ -16,7 +16,7 @@
 	Plugin URI: http://qcybb.com/question2answer-seo-meta-tags/
 	Plugin Description: Adds "noindex,follow" meta tags to various user-defined pages.
 	Plugin Version: 1.0
-	Plugin Date: 2013-01-31
+	Plugin Date: 2017-05-04
 	Plugin Author: Dave Hannon
 	Plugin Author URI: http://qcybb.com
 	Plugin Minimum Question2Answer Version: 1.5
